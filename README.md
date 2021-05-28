@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Marcos 👋
+
+:brazil: Born and living in Paraíba, Brazil
+****
+- 🌱 I’m currently learning Python and Calculus.
+- :computer: I'm working on a website for Genshin Impact Builds!
 
 <!--
 **marcoscard/marcoscard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
